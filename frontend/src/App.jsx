@@ -3,6 +3,7 @@ import LoginPage from "./pages/LoginPage"
 import RegisterPage from "./pages/RegisterPage"
 import LandingPage from "./pages/LandingPage"
 function App() {
+
   return (
     <>
     <BrowserRouter>
